@@ -1,26 +1,4 @@
-print("hello babe")
-print("that mdfker got on my nervee")
-print("សូស្ដី")
 
-
-print("===============================================================")
-print("                     ETEC CENTER")
-print("--------------------------------------------------------------")
-print("                     Name : Sry")
-print("                     sex : male ")
-print("                     school : RUPP,")
-print("--------------------------------------------------------------")
-print("===============================================================")
-
-print("HEllo" , "World")
-hello = "ok jg kr ban"
-print(f"hello {hello}")
-print("""
-hx ah muy nos tver doj dara
-fk that guy 
-      
-
-""")
 <!--- 👋 Hi, I’m @ZyvanSry
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
